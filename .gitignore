@@ -2,3 +2,4 @@
 *wallet.json
 node_modules/
 .DS_store
+config.bat
